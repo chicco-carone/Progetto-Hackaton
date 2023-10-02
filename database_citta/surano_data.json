@@ -1,0 +1,121 @@
+[
+  {
+    "Denominazione": "B&B SIDERIS",
+    "CIS": "LE07508291000037797",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "SURANO",
+    "CAP": "73030",
+    "Localita'": "SURANO",
+    "Via": "VIA SAN CASSIANO",
+    "Civico": "10"
+  },
+  {
+    "Denominazione": "CORTE DEL FATTORE",
+    "CIS": "LE07508291000011880",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "SURANO",
+    "CAP": "73030",
+    "Localita'": "SURANO",
+    "Via": "VIA SAN NICOLA",
+    "Civico": "5"
+  },
+  {
+    "Denominazione": "Casa Martina",
+    "CIS": "LE07508291000035246",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "SURANO",
+    "CAP": "73030",
+    "Via": "via san rocco",
+    "Civico": "112"
+  },
+  {
+    "Denominazione": "Casa Nonna",
+    "CIS": "LE07508291000036626",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "SURANO",
+    "CAP": "73030",
+    "Localita'": "Surano",
+    "Via": "Via S. Rocco ",
+    "Civico": "87"
+  },
+  {
+    "Denominazione": "L'OLIVETO",
+    "CIS": "LE07508291000014529",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "SURANO",
+    "CAP": "73030",
+    "Localita'": "Surano",
+    "Via": "VIA SAN ROCCO ",
+    "Civico": "146/148"
+  },
+  {
+    "Denominazione": "LA CASA DI ANNUNZIATA",
+    "CIS": "LE07508291000021338",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "SURANO",
+    "CAP": "73030",
+    "Localita'": "SURANO",
+    "Via": "VIA LEONARDO DA VINCI",
+    "Civico": "49"
+  },
+  {
+    "Denominazione": "La Tavernetta",
+    "CIS": "LE07508291000031560",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "SURANO",
+    "CAP": "73030",
+    "Localita'": "Surano",
+    "Via": "Giovanni Pascoli ",
+    "Civico": "14"
+  },
+  {
+    "Denominazione": "La casa di Nina ",
+    "CIS": "LE07508291000021327",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "SURANO",
+    "CAP": "73030",
+    "Localita'": "Surano",
+    "Via": "Via Leonardo Da Vinci",
+    "Civico": "26"
+  },
+  {
+    "Denominazione": "Palazzo Belvedere",
+    "CIS": "LE07508291000019600",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "SURANO",
+    "CAP": "73030",
+    "Localita'": "Surano",
+    "Via": "Vico Due Luglio ",
+    "Civico": "1"
+  },
+  {
+    "Denominazione": "borgogelso",
+    "CIS": "LE07508291000021702",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "SURANO",
+    "CAP": "73030",
+    "Localita'": "surano",
+    "Via": "via guglielmo marconi",
+    "Civico": "30"
+  }
+]

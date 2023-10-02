@@ -1,0 +1,72 @@
+[
+  {
+    "Denominazione": "BeB Talìa",
+    "CIS": "LE07504591000025301",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "MELPIGNANO",
+    "CAP": "73020",
+    "Localita'": "Campagna - Salento",
+    "Via": "Via Comunale Castrignano Cursi",
+    "Civico": "22"
+  },
+  {
+    "Denominazione": "Casa la Nenè",
+    "CIS": "LE07504591000038249",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "MELPIGNANO",
+    "CAP": "73020",
+    "Via": "Via Vito Fazzi",
+    "Civico": "13"
+  },
+  {
+    "Denominazione": "Casetta Rita",
+    "CIS": "LE07504591000038258",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "MELPIGNANO",
+    "CAP": "73020",
+    "Via": "via caporale ernesto gaetani",
+    "Civico": "33"
+  },
+  {
+    "Denominazione": "Casina del Geco Isidoro",
+    "CIS": "LE07504591000023312",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "MELPIGNANO",
+    "CAP": "73020",
+    "Localita'": "Melpignano",
+    "Via": "Via Cinuria",
+    "Civico": "12"
+  },
+  {
+    "Denominazione": "Le case di sopra ",
+    "CIS": "LE07504591000036739",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "MELPIGNANO",
+    "CAP": "73020",
+    "Localita'": "Melpignano ",
+    "Via": "Via Foggiari ",
+    "Civico": "27"
+  },
+  {
+    "Denominazione": "Villa Vilma",
+    "CIS": "LE07504591000015122",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "MELPIGNANO",
+    "CAP": "73020",
+    "Localita'": "Melpignano",
+    "Via": "Via parco rimembranza",
+    "Civico": "9"
+  }
+]

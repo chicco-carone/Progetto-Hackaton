@@ -1,0 +1,38 @@
+[
+  {
+    "Denominazione": "Casa turistica",
+    "CIS": "FG07105691000030642",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "TORREMAGGIORE",
+    "CAP": "71017",
+    "Localita'": "Torremaggiore ",
+    "Via": "Via Cairoli",
+    "Civico": "15/17"
+  },
+  {
+    "Denominazione": "Happy",
+    "CIS": "FG07105691000036447",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "TORREMAGGIORE",
+    "CAP": "71017",
+    "Localita'": "Torremaggiore",
+    "Via": "Via bezzecca ",
+    "Civico": "11"
+  },
+  {
+    "Denominazione": "La casa di Ali",
+    "CIS": "FG07105691000039707",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "TORREMAGGIORE",
+    "CAP": "71017",
+    "Localita'": "Torremaggiore ",
+    "Via": "Via Emilio celeste ",
+    "Civico": "1"
+  }
+]

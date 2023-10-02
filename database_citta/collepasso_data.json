@@ -1,0 +1,141 @@
+[
+  {
+    "Denominazione": "Appartamento C. Alberti",
+    "CIS": "LE07502191000040508",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "COLLEPASSO",
+    "CAP": "73040",
+    "Via": "Via C. Alberti",
+    "Civico": "125"
+  },
+  {
+    "Denominazione": "CASA MIELE",
+    "CIS": "LE07502191000033276",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "COLLEPASSO",
+    "CAP": "73040",
+    "Localita'": "COLLEPASSO",
+    "Via": "VIA OVIDIO",
+    "Civico": "3"
+  },
+  {
+    "Denominazione": "Casa Carolina",
+    "CIS": "LE07502191000008598",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "COLLEPASSO",
+    "CAP": "73040",
+    "Localita'": "Collepasso",
+    "Via": "Via Umberto I",
+    "Civico": "65"
+  },
+  {
+    "Denominazione": "Casa Mia",
+    "CIS": "LE07502191000038957",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "COLLEPASSO",
+    "CAP": "73040",
+    "Localita'": "Collepasso ",
+    "Via": "Via Reggio Calabria ",
+    "Civico": "104"
+  },
+  {
+    "Denominazione": "Casa Open-Space",
+    "CIS": "LE07502191000022722",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "COLLEPASSO",
+    "CAP": "73040",
+    "Via": "Via Galliano",
+    "Civico": "35"
+  },
+  {
+    "Denominazione": "Casa Vacanze Tra Mare e Colline",
+    "CIS": "LE07502191000040398",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "COLLEPASSO",
+    "CAP": "73040",
+    "Via": "Via Giovanni Giolitti",
+    "Civico": "28"
+  },
+  {
+    "Denominazione": "Dimora Caravaggio",
+    "CIS": "LE07502191000040779",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "COLLEPASSO",
+    "CAP": "73040",
+    "Localita'": "COLLEPASSO",
+    "Via": "Via Roma",
+    "Civico": "2"
+  },
+  {
+    "Denominazione": "HOLIDAY SALENTO",
+    "CIS": "LE07502191000010530",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "COLLEPASSO",
+    "CAP": "73040",
+    "Localita'": "COLLEPASSO",
+    "Via": "VIA N BIXIO ",
+    "Civico": "22"
+  },
+  {
+    "Denominazione": "Micasa",
+    "CIS": "LE07502191000014492",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "COLLEPASSO",
+    "CAP": "73040",
+    "Localita'": "Collepasso",
+    "Via": "Contrada Belli",
+    "Civico": "6"
+  },
+  {
+    "Denominazione": "SALENTO VILLA VACANZA COLLEPASSO",
+    "CIS": "LE07502191000023976",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "COLLEPASSO",
+    "CAP": "73040",
+    "Via": "VIA E. DE NICOLA",
+    "Civico": "1"
+  },
+  {
+    "Denominazione": "Terra di Mezzo",
+    "CIS": "LE07502191000039673",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "COLLEPASSO",
+    "CAP": "73040",
+    "Via": "via Roma",
+    "Civico": "16"
+  },
+  {
+    "Denominazione": "villa abati",
+    "CIS": "LE07502191000012331",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "COLLEPASSO",
+    "CAP": "73040",
+    "Localita'": "collepasso",
+    "Via": "via del bosco",
+    "Civico": "56"
+  }
+]

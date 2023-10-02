@@ -1,0 +1,72 @@
+[
+  {
+    "Denominazione": "Apartments Alba Lilia",
+    "CIS": "LE07505491000023069",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "NOCIGLIA",
+    "CAP": "73020",
+    "Via": "Via Tagliamento",
+    "Civico": "20"
+  },
+  {
+    "Denominazione": "CASA PUCE",
+    "CIS": "LE07505491000010095",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "NOCIGLIA",
+    "CAP": "73020",
+    "Localita'": "NOCIGLIA",
+    "Via": "VIA G. PISANELLI",
+    "Civico": "10"
+  },
+  {
+    "Denominazione": "CASA VACANZE MADI",
+    "CIS": "LE07505491000010555",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "NOCIGLIA",
+    "CAP": "73020",
+    "Localita'": "NOCIGLIA",
+    "Via": "VIA SUPERSANO",
+    "Civico": "26"
+  },
+  {
+    "Denominazione": "La Limesa",
+    "CIS": "LE07505491000006391",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "NOCIGLIA",
+    "CAP": "73020",
+    "Localita'": "Nociglia",
+    "Via": "Via Pisanelli",
+    "Civico": "4"
+  },
+  {
+    "Denominazione": "La Locanda ",
+    "CIS": "LE07505491000036793",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "NOCIGLIA",
+    "CAP": "73020",
+    "Localita'": "Nociglia ",
+    "Via": "Via locanda ",
+    "Civico": "10"
+  },
+  {
+    "Denominazione": "MAISON LUIGI",
+    "CIS": "LE07505491000040896",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "NOCIGLIA",
+    "CAP": "73020",
+    "Via": "VIA GUGLIELMO OBERDAN ",
+    "Civico": "24"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "Denominazione": "CASA ZEZZA",
+    "CIS": "FG07106491000032126",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "ZAPPONETA",
+    "CAP": "71030",
+    "Localita'": "ZAPPONETA",
+    "Via": "VIA ZEZZA ",
+    "Civico": "1"
+  },
+  {
+    "Denominazione": "LA TERRAZZA",
+    "CIS": "FG07106491000039910",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "ZAPPONETA",
+    "CAP": "71030",
+    "Localita'": "Zapponeta",
+    "Via": "via Palmiro Togliatti",
+    "Civico": "1"
+  },
+  {
+    "Denominazione": "LOFT IL FICO",
+    "CIS": "FG07106491000031820",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "ZAPPONETA",
+    "CAP": "71030",
+    "Localita'": "Zapponeta",
+    "Via": "Corso Manfredonia ",
+    "Civico": "80"
+  },
+  {
+    "Denominazione": "Villa with private swimming pool",
+    "CIS": "FG07106491000012101",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "ZAPPONETA",
+    "CAP": "71030",
+    "Localita'": "Villaggio turistico Foggiamare",
+    "Via": "S.S.159 delle Saline Km.14+100",
+    "Civico": "Km.14+100"
+  }
+]

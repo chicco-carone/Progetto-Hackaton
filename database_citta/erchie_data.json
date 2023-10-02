@@ -1,0 +1,62 @@
+[
+  {
+    "Denominazione": "BED AND BREAKFAST\"SANTA LUCIA\"",
+    "CIS": "BR07400691000040259",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "BR",
+    "Comune": "ERCHIE",
+    "CAP": "72020",
+    "Localita'": "ERCHIE",
+    "Via": "VIA SANTA LUCIA",
+    "Civico": "55"
+  },
+  {
+    "Denominazione": "Casa Manuela",
+    "CIS": "BR07400691000013109",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "BR",
+    "Comune": "ERCHIE",
+    "CAP": "72020",
+    "Localita'": "Erchie",
+    "Via": "Via Santa Lucia ",
+    "Civico": "49"
+  },
+  {
+    "Denominazione": "Le radici",
+    "CIS": "BR07400691000029791",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "BR",
+    "Comune": "ERCHIE",
+    "CAP": "72020",
+    "Localita'": "Erchie ",
+    "Via": "Via principe di Napoli ",
+    "Civico": "263"
+  },
+  {
+    "Denominazione": "Le radici",
+    "CIS": "BR07400691000036366",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "BR",
+    "Comune": "ERCHIE",
+    "CAP": "72020",
+    "Localita'": "Erchie",
+    "Via": "Via Principe di Napoli",
+    "Civico": "263"
+  },
+  {
+    "Denominazione": "Un angolo al sole",
+    "CIS": "BR07400691000022566",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "BR",
+    "Comune": "ERCHIE",
+    "CAP": "72020",
+    "Localita'": "Erchie",
+    "Via": "Via carceri ",
+    "Civico": "1"
+  }
+]

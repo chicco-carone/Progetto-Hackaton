@@ -1,0 +1,50 @@
+[
+  {
+    "Denominazione": "B&B208",
+    "CIS": "FG07105891000037913",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "TROIA",
+    "CAP": "71029",
+    "Localita'": "TROIA",
+    "Via": "VIA MATTEOTTI",
+    "Civico": "208/A"
+  },
+  {
+    "Denominazione": "Casa Grace",
+    "CIS": "FG07105891000019924",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "TROIA",
+    "CAP": "71029",
+    "Localita'": "Troia",
+    "Via": "Via Giacomo Matteotti",
+    "Civico": "224"
+  },
+  {
+    "Denominazione": "DIMORA LUCIA",
+    "CIS": "FG07105891000027056",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "TROIA",
+    "CAP": "71029",
+    "Localita'": "TROIA",
+    "Via": "VIA MISSIONARI ",
+    "Civico": "5"
+  },
+  {
+    "Denominazione": "HOLIDAY HOUSE IMPERO",
+    "CIS": "FG07105891000029030",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "TROIA",
+    "CAP": "71029",
+    "Localita'": "TROIA",
+    "Via": "VIA GIACOMO MATTEOTTI ",
+    "Civico": "48"
+  }
+]

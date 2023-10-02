@@ -1,0 +1,50 @@
+[
+  {
+    "Denominazione": "AL CASTELLO",
+    "CIS": "FG07100791000022388",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "BOVINO",
+    "CAP": "71023",
+    "Localita'": "BOVINO",
+    "Via": "VIA ANGIOPORTO SAN PROCOPIO",
+    "Civico": "36"
+  },
+  {
+    "Denominazione": "AL PONTE ROMANO",
+    "CIS": "FG07100791000022386",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "BOVINO",
+    "CAP": "71023",
+    "Localita'": "BOVINO",
+    "Via": "LOC PONTE BOVINO",
+    "Civico": "SNC"
+  },
+  {
+    "Denominazione": "L'OASI DEL CERVARO",
+    "CIS": "FG07100791000022385",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "BOVINO",
+    "CAP": "71023",
+    "Localita'": "BOVINO",
+    "Via": "LOCALITA' PONTE BOVINO SNC BOVINO",
+    "Civico": "SNC"
+  },
+  {
+    "Denominazione": "La casetta dei racconti",
+    "CIS": "FG07100791000039016",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "BOVINO",
+    "CAP": "71023",
+    "Localita'": "Bovino",
+    "Via": "via V. Barone",
+    "Civico": "1"
+  }
+]

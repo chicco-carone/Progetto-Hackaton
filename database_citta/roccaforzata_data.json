@@ -1,0 +1,26 @@
+[
+  {
+    "Denominazione": "Casa vacanza matilde",
+    "CIS": "TA07302391000029933",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "TA",
+    "Comune": "ROCCAFORZATA",
+    "CAP": "74020",
+    "Localita'": "Roccaforzata",
+    "Via": "Via Cavour ",
+    "Civico": "30"
+  },
+  {
+    "Denominazione": "Nonna Lucia ",
+    "CIS": "TA07302391000033142",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "TA",
+    "Comune": "ROCCAFORZATA",
+    "CAP": "74020",
+    "Localita'": "Centro abitato",
+    "Via": "Via Kambergh ",
+    "Civico": "4"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "Denominazione": "Avleddhi",
+    "CIS": "LE07509491000019647",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "ZOLLINO",
+    "CAP": "73010",
+    "Via": "Strada comunale Aulelli",
+    "Civico": "2"
+  },
+  {
+    "Denominazione": "Casa Leo",
+    "CIS": "LE07509491000007706",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "ZOLLINO",
+    "CAP": "73010",
+    "Via": "Via Giuseppe Chiriatti",
+    "Civico": "12"
+  },
+  {
+    "Denominazione": "Casa vacanze \"La Curte\"",
+    "CIS": "LE07509491000028618",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "ZOLLINO",
+    "CAP": "73010",
+    "Via": "Piazza Pertini",
+    "Civico": "5"
+  },
+  {
+    "Denominazione": "Dimora La Fuga",
+    "CIS": "LE07509491000036723",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "ZOLLINO",
+    "CAP": "73010",
+    "Localita'": "ZOLLINO",
+    "Via": "Piazza Sandro Pertini",
+    "Civico": "2"
+  },
+  {
+    "Denominazione": "KipoRooms",
+    "CIS": "LE07509491000013340",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "ZOLLINO",
+    "CAP": "73010",
+    "Localita'": "Zollino",
+    "Via": "Viale Italia ",
+    "Civico": "119"
+  },
+  {
+    "Denominazione": "La Macrea",
+    "CIS": "LE07509491000027724",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "ZOLLINO",
+    "CAP": "73010",
+    "Via": "Via Vecchia Martignano",
+    "Civico": "18"
+  },
+  {
+    "Denominazione": "VILLA NINA",
+    "CIS": "LE07509491000030254",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "ZOLLINO",
+    "CAP": "73010",
+    "Via": "Strada Comunale Zollino Alle Lamelle",
+    "Civico": "10"
+  },
+  {
+    "Denominazione": "VILLA PANAGIAS TIS LORETO",
+    "CIS": "LE07509491000005786",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "ZOLLINO",
+    "CAP": "73010",
+    "Localita'": "ZOLLINO",
+    "Via": "STRADA PROV. SOLETO MARTANO",
+    "Civico": "S.N."
+  },
+  {
+    "Denominazione": "Villetta Corte del Cavaliere",
+    "CIS": "LE07509491000026307",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "ZOLLINO",
+    "CAP": "73010",
+    "Via": "Piazza Caduti",
+    "Civico": "10"
+  }
+]

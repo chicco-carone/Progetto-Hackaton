@@ -1,0 +1,109 @@
+[
+  {
+    "Denominazione": "APPARTAMENTO",
+    "CIS": "FG07102891000022496",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "LUCERA",
+    "CAP": "71036",
+    "Localita'": "LUCERA",
+    "Via": "VIA GIOVANNI XXIII",
+    "Civico": "21"
+  },
+  {
+    "Denominazione": "APPARTAMENTO PADRE MAESTRO",
+    "CIS": "FG07102891000030469",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "LUCERA",
+    "CAP": "71036",
+    "Localita'": "LUCERA",
+    "Via": "VIA FASANI",
+    "Civico": "31/A"
+  },
+  {
+    "Denominazione": "Al Palazzotto",
+    "CIS": "FG07102891000021772",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "LUCERA",
+    "CAP": "71036",
+    "Localita'": "Lucera",
+    "Via": "via Scassa",
+    "Civico": "104"
+  },
+  {
+    "Denominazione": "Anfiteatro Room",
+    "CIS": "FG07102891000021944",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "LUCERA",
+    "CAP": "71036",
+    "Localita'": "Lucera",
+    "Via": "Via Ferrone",
+    "Civico": "61"
+  },
+  {
+    "Denominazione": "Appartamento 2M",
+    "CIS": "FG07102891000031256",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "LUCERA",
+    "CAP": "71036",
+    "Localita'": "Centro Storico",
+    "Via": "Via Spagnoletti Zeuli",
+    "Civico": "69"
+  },
+  {
+    "Denominazione": "Appartamento ROSA",
+    "CIS": "FG07102891000031253",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "LUCERA",
+    "CAP": "71036",
+    "Localita'": "LUCERA",
+    "Via": "Via Spagnoletti Zeuli",
+    "Civico": "69"
+  },
+  {
+    "Denominazione": "BOSCO DIDATTICO MEZZANA GRANDE",
+    "CIS": "FG07102891000023166",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "LUCERA",
+    "CAP": "71036",
+    "Via": "C.da MEZZANA GRANDE",
+    "Civico": "SNC"
+  },
+  {
+    "Denominazione": "DON ALESANDRO",
+    "CIS": "FG07102891000022012",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "LUCERA",
+    "CAP": "71036",
+    "Localita'": "LUCERA",
+    "Via": "VIA CARPENTIERI ",
+    "Civico": "61"
+  },
+  {
+    "Denominazione": "Piazzetta del Convitto",
+    "CIS": "FG07102891000000857",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "FG",
+    "Comune": "LUCERA",
+    "CAP": "71036",
+    "Localita'": "Lucera",
+    "Via": "Piazza Ruggero Bonghi ",
+    "Civico": "2"
+  }
+]

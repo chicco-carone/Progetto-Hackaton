@@ -1,0 +1,108 @@
+[
+  {
+    "Denominazione": "APPARTEMENTO",
+    "CIS": "LE07506791000006878",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "SANARICA",
+    "CAP": "73030",
+    "Via": "VIA CADORNA",
+    "Civico": "25"
+  },
+  {
+    "Denominazione": "CORTE DEL SOLE SALENTO",
+    "CIS": "LE07506791000014104",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "SANARICA",
+    "CAP": "73030",
+    "Localita'": "SANARICA",
+    "Via": "VIA CESARE BATTISTI",
+    "Civico": "50"
+  },
+  {
+    "Denominazione": "Casa di Teresa Il Cappero",
+    "CIS": "LE07506791000031498",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "SANARICA",
+    "CAP": "73030",
+    "Localita'": "Sanarica",
+    "Via": "Via SS. Annunziata ",
+    "Civico": "14"
+  },
+  {
+    "Denominazione": "Le Cupe",
+    "CIS": "LE07506791000004168",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "SANARICA",
+    "CAP": "73030",
+    "Localita'": "Sanarica (LE)",
+    "Via": "Via vicinale delle macchie",
+    "Civico": "4"
+  },
+  {
+    "Denominazione": "Masseria Quadrelli",
+    "CIS": "LE07506791000023930",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "SANARICA",
+    "CAP": "73030",
+    "Localita'": "Sanarica (Lecce)",
+    "Via": "Strada comunale Sanarica - Poggiardo",
+    "Civico": "sn"
+  },
+  {
+    "Denominazione": "Tenuta Innocenzi",
+    "CIS": "LE07506791000021680",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "SANARICA",
+    "CAP": "73030",
+    "Via": "SP Sanarica-Poggiardo",
+    "Civico": "6"
+  },
+  {
+    "Denominazione": "USCIGLIO ROOMS",
+    "CIS": "LE07506791000032790",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "SANARICA",
+    "CAP": "73030",
+    "Localita'": "SANARICA",
+    "Via": "VIA FUNIZZANI",
+    "Civico": "SNC"
+  },
+  {
+    "Denominazione": "VILLA MIGGIANO",
+    "CIS": "LE07506791000041857",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "SANARICA",
+    "CAP": "73030",
+    "Localita'": "SANARICA",
+    "Via": "STRADA VICINALE SCANNATE PRIMA",
+    "Civico": "SNC"
+  },
+  {
+    "Denominazione": "casa daniela",
+    "CIS": "LE07506791000039199",
+    "Tipologia": "Alloggi privati",
+    "Sottotipologia": "Locazione turistica",
+    "Provincia": "LE",
+    "Comune": "SANARICA",
+    "CAP": "73030",
+    "Localita'": "sanarica",
+    "Via": "via tenente puce 2",
+    "Civico": "73030"
+  }
+]
