@@ -11,47 +11,49 @@
     <body>
         <ul class="topnav">
             <li><a class="active" href="./index.html">Home</a></li>
-            <li><a href="./info.html">Info</a></li>
+            <li><a href="./info.html">Chi siamo</a></li>
             <li><a href="./comesiusa.html">Come Si Usa</a></li>
         </ul>
 
-        <h1>Progetto hackaton: Home</h1>
+        <h1>Alloggiare legalmente: Home</h1>
 
         <div class="inputfields">
             <form action="">
-                <label for="citta" class="cittainput">Città</label>
-                <input type="text" id="citta" name="citta" class="cittainput" placeholder="Inserire la Città..">
+                <label for="citta">Seleziona una città:</label>
+                <select id="citta" name="citta" class="cittainput">
+                    <option value="roma">Roma</option>
+                    <option value="torino">Torino</option>
+                    <option value="milano">Milano</option>
+                    <option value="grumo">Grumo Apula</option>
+                </select>
 
             
                   <div class="input-container">
                     <label for="cis">CIS</label>
-                    <input type="text" id="cis" name="cis" class="hidden" placeholder="Inserire Il CIS..">
+                    <input type="text" id="cis" name="cis" placeholder="Inserire Il CIS..">
                   </div>
             
                   <div class="input-container">
                     <label for="indirizzo">Indirizzo</label>
-                    <input type="text" id="indirizzo" name="indirizzo" class="hidden" placeholder="Inserire l'indirizzo..">
+                    <input type="text" id="indirizzo" name="indirizzo" placeholder="Inserire l'indirizzo..">
                   </div>
             
                   <div class="input-container">
                     <label for="ncivico">Numero Civico</label>
-                    <input type="text" id="ncivico" name="ncivico" class="hidden" placeholder="Inserire Il numero civico..">
+                    <input type="text" id="ncivico" name="ncivico" placeholder="Inserire Il numero civico..">
                   </div>
             
                   <div class="input-container">
                     <label for="cap">CAP</label>
-                    <input type="text" id="cap" name="cap" class="hidden" placeholder="Inserire Il CAP..">
+                    <input type="text" id="cap" name="cap" placeholder="Inserire Il CAP..">
                   </div>
 
-                  <div class="input-container">
-                    <input type="submit" value="Conferma">
-                  </div>
+                  <input type="submit" value="Conferma" id="submit-button">
                 
             </form>
         </div>
-
         <div class="footer">
-            <p>2023 Lavoro del gruppo 3IC</p>
+            <p>2023 Lavoro del gruppo I Marconiani</p>
         </div>
     </body>
 
