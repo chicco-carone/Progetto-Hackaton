@@ -1,0 +1,85 @@
+[
+{
+  "Denominazione": "ATTICO PETRELLI",
+  "CIS": "LE07501791000016001",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "CASTRI DI LECCE",
+  "CAP": "73023",
+  "Localita'": "CASTRI' DI LECCE",
+  "Via": "VIA GIACOMO LEOPARDI",
+  "Civico": "3"
+},
+{
+  "Denominazione": "Antica residenza centro storico",
+  "CIS": "LE07501791000013127",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "CASTRI DI LECCE",
+  "CAP": "73020",
+  "Localita'": "Castri di Lecce",
+  "Via": "Piazza Municipio",
+  "Civico": "18"
+},
+{
+  "Denominazione": "LA CASA DI NEVE",
+  "CIS": "LE07501791000031414",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "CASTRI DI LECCE",
+  "CAP": "73030",
+  "Localita'": "CASTRO MARINA",
+  "Via": "VIA LITORANEA PER SANTA CESAREA ",
+  "Civico": "48"
+},
+{
+  "Denominazione": "La Dimora dei Gelsi",
+  "CIS": "LE07501791000000125",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "CASTRI DI LECCE",
+  "CAP": "73020",
+  "Via": "via Fondo Vigne ",
+  "Civico": "1"
+},
+{
+  "Denominazione": "Le Volte del Conte",
+  "CIS": "LE07501791000033268",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "CASTRI DI LECCE",
+  "CAP": "73030",
+  "Localita'": "Castro Marina",
+  "Via": "Piazza Colombo",
+  "Civico": "4"
+},
+{
+  "Denominazione": "RURALHOLIDAYS",
+  "CIS": "LE07501791000041557",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "CASTRI DI LECCE",
+  "CAP": "73020",
+  "Localita'": "LECCE",
+  "Via": "contrada pozzelle",
+  "Civico": "1"
+},
+{
+  "Denominazione": "SALENTO SUITE",
+  "CIS": "LE07501791000020990",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "CASTRI DI LECCE",
+  "CAP": "73020",
+  "Localita'": "CASTRI DI LECCE",
+  "Via": "P.zza Caduti",
+  "Civico": "8A"
+}
+]

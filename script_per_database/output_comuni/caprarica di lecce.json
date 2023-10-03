@@ -1,0 +1,50 @@
+[
+{
+  "Denominazione": "CAMPACASE",
+  "CIS": "LE07501391000017752",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "CAPRARICA DI LECCE",
+  "CAP": "73010",
+  "Localita'": "Caprarica Di Lecce",
+  "Via": "Via Luciano Manara",
+  "Civico": "6"
+},
+{
+  "Denominazione": "Casa Nonno Ntunucciu",
+  "CIS": "LE07501391000025132",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "CAPRARICA DI LECCE",
+  "CAP": "73010",
+  "Localita'": "Caprarica di Lecce",
+  "Via": "Via Francesco Greco ",
+  "Civico": "19"
+},
+{
+  "Denominazione": "Mayor's House-casa vacanze",
+  "CIS": "LE07501391000033785",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "CAPRARICA DI LECCE",
+  "CAP": "73010",
+  "Localita'": "Caprarica di Lecce",
+  "Via": "via San Cesario",
+  "Civico": "2"
+},
+{
+  "Denominazione": "NONNA TERESINA",
+  "CIS": "LE07501391000025102",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "CAPRARICA DI LECCE",
+  "CAP": "73010",
+  "Localita'": "Caprarica di Lecce",
+  "Via": "VIA MARTANO",
+  "Civico": "21"
+}
+]

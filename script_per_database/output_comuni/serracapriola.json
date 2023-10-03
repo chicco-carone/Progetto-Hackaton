@@ -1,0 +1,38 @@
+[
+{
+  "Denominazione": "B&B \" La Casa di MaGioLo' \"",
+  "CIS": "FG07105391000037902",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SERRACAPRIOLA",
+  "CAP": "71010",
+  "Localita'": "SERRACAPRIOLA",
+  "Via": "VIA N. BIXIO",
+  "Civico": "13"
+},
+{
+  "Denominazione": "LA TERRAZZA SUL BORGO",
+  "CIS": "FG07105391000018438",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SERRACAPRIOLA",
+  "CAP": "71010",
+  "Localita'": "SERRACARIOLA",
+  "Via": "CORSO GARIBALDI",
+  "Civico": "78"
+},
+{
+  "Denominazione": "RESIDENZA GONZAGA B&B",
+  "CIS": "FG07105391000035959",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SERRACAPRIOLA",
+  "CAP": "71010",
+  "Localita'": "SERRACAPRIOLA",
+  "Via": "VIA SANT'ANNA ",
+  "Civico": "18"
+}
+]

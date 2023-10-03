@@ -1,0 +1,73 @@
+[
+{
+  "Denominazione": "CASA PICO BELLO",
+  "CIS": "BR07400491000039520",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BR",
+  "Comune": "CELLINO SAN MARCO",
+  "CAP": "72020",
+  "Localita'": "CELLINO SAN MARCO",
+  "Via": "VIA BARI ",
+  "Civico": "18"
+},
+{
+  "Denominazione": "Le Volte",
+  "CIS": "BR07400491000020749",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BR",
+  "Comune": "CELLINO SAN MARCO",
+  "CAP": "72020",
+  "Localita'": "Cellino San Marco",
+  "Via": "Via Roma",
+  "Civico": "43"
+},
+{
+  "Denominazione": "The secret door 10 apartments",
+  "CIS": "BR07400491000039474",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BR",
+  "Comune": "CELLINO SAN MARCO",
+  "CAP": "72020",
+  "Localita'": "Cellino San marco",
+  "Via": "Via Giuseppe Di Vittorio",
+  "Civico": "10"
+},
+{
+  "Denominazione": "The secret door 12",
+  "CIS": "BR07400491000039096",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BR",
+  "Comune": "CELLINO SAN MARCO",
+  "CAP": "72020",
+  "Via": "via giuseppe di vittorio ",
+  "Civico": "12"
+},
+{
+  "Denominazione": "Villa Assuntina",
+  "CIS": "BR07400491000013258",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BR",
+  "Comune": "CELLINO SAN MARCO",
+  "CAP": "72020",
+  "Localita'": "cellino",
+  "Via": "eupremia gravili",
+  "Civico": "1"
+},
+{
+  "Denominazione": "villa salento",
+  "CIS": "BR07400491000023248",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BR",
+  "Comune": "CELLINO SAN MARCO",
+  "CAP": "72020",
+  "Localita'": "cellino san marco",
+  "Via": "via foggia",
+  "Civico": "18"
+}
+]

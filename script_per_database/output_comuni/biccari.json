@@ -1,0 +1,25 @@
+[
+{
+  "Denominazione": "Antica Dimora 1848",
+  "CIS": "FG07100691000034880",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "BICCARI",
+  "CAP": "71032",
+  "Localita'": "Biccari",
+  "Via": "Via Domenico Lippi",
+  "Civico": "37"
+},
+{
+  "Denominazione": "Villa Angela",
+  "CIS": "FG07100691000040897",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "BICCARI",
+  "CAP": "71032",
+  "Via": "Contrada Tertiveri",
+  "Civico": "2"
+}
+]

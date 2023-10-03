@@ -1,0 +1,37 @@
+[
+{
+  "Denominazione": "Arco Pronti Case Vacanze",
+  "CIS": "FG07105291000025522",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SANT'AGATA DI PUGLIA",
+  "CAP": "71028",
+  "Localita'": "Sant'Agata di Puglia",
+  "Via": "Via Arco Pronti ",
+  "Civico": "1"
+},
+{
+  "Denominazione": "BED AND BREAKFAST VILLA DI MISCIO",
+  "CIS": "FG07105291000004331",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SANT'AGATA DI PUGLIA",
+  "CAP": "71028",
+  "Localita'": "SANT'AGATA DI PUGLIA",
+  "Via": "VIA SAN ROCCO ",
+  "Civico": "2"
+},
+{
+  "Denominazione": "LA DIMORA DI PAPANONNO",
+  "CIS": "FG07105291000036286",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SANT'AGATA DI PUGLIA",
+  "CAP": "98076",
+  "Via": "CORSO BARBATO",
+  "Civico": "35"
+}
+]

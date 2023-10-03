@@ -1,0 +1,38 @@
+[
+{
+  "Denominazione": "Dimora D\u00bfAmato",
+  "CIS": "BA07202491000012753",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BA",
+  "Comune": "GRUMO APPULA",
+  "CAP": "70025",
+  "Localita'": "Grumo Appula ",
+  "Via": "Via Roma",
+  "Civico": "3"
+},
+{
+  "Denominazione": "LA MURGIA Casa Vacanze",
+  "CIS": "BA07202491000032547",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BA",
+  "Comune": "GRUMO APPULA",
+  "CAP": "70025",
+  "Localita'": "Grumo Appula",
+  "Via": "Via Michele Coscia",
+  "Civico": "7A"
+},
+{
+  "Denominazione": "Prima Dimora",
+  "CIS": "BA07202491000032844",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BA",
+  "Comune": "GRUMO APPULA",
+  "CAP": "70025",
+  "Localita'": "grumo appula",
+  "Via": "via giosu\u00e8 carducci ",
+  "Civico": "5"
+}
+]

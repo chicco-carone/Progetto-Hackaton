@@ -1,0 +1,26 @@
+[
+{
+  "Denominazione": "FIRENZE",
+  "CIS": "FG07103691000042042",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "ORTA NOVA",
+  "CAP": "71045",
+  "Localita'": "ORTA NOVA",
+  "Via": "via firenze ",
+  "Civico": "17"
+},
+{
+  "Denominazione": "LUSSEMBURGO",
+  "CIS": "FG07103691000042043",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "ORTA NOVA",
+  "CAP": "71045",
+  "Localita'": "ORTA NOVA",
+  "Via": "via lussemburgo",
+  "Civico": "8"
+}
+]

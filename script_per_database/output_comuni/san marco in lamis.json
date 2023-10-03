@@ -1,0 +1,25 @@
+[
+{
+  "Denominazione": "Borgo Celano",
+  "CIS": "FG07104791000034719",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN MARCO IN LAMIS",
+  "CAP": "71014",
+  "Via": "Via San Marco",
+  "Civico": "10B"
+},
+{
+  "Denominazione": "CASETTA ANNA",
+  "CIS": "FG07104791000013137",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN MARCO IN LAMIS",
+  "CAP": "71014",
+  "Localita'": "BORGO CELANO",
+  "Via": "VIA PIETRO GORI",
+  "Civico": "19"
+}
+]

@@ -1,0 +1,49 @@
+[
+{
+  "Denominazione": "Foresteria del Borgo Antico",
+  "CIS": "FG07100591000026938",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "ASCOLI SATRIANO",
+  "CAP": "71022",
+  "Localita'": "ASCOLI SATRIANO",
+  "Via": "Largo Castello ",
+  "Civico": "10"
+},
+{
+  "Denominazione": "L'alcova dei Grifoni",
+  "CIS": "FG07100591000041811",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "ASCOLI SATRIANO",
+  "CAP": "71022",
+  "Localita'": "Ascoli Satriano",
+  "Via": "Via Santa Maria del Popolo ",
+  "Civico": "41"
+},
+{
+  "Denominazione": "RIPOSO DEL VIANDANTE",
+  "CIS": "FG07100591000021756",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "ASCOLI SATRIANO",
+  "CAP": "71022",
+  "Via": "VIA RUGGERO BONGHI",
+  "Civico": "40"
+},
+{
+  "Denominazione": "Villa in campagna affacciata su vigneto ",
+  "CIS": "FG07100591000006554",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "ASCOLI SATRIANO",
+  "CAP": "71022",
+  "Localita'": "Ascoli Satriano ",
+  "Via": "Via masseria Monti carpinelli ",
+  "Civico": "84"
+}
+]

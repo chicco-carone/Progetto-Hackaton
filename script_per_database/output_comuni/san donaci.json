@@ -1,0 +1,72 @@
+[
+{
+  "Denominazione": "CASA SOLIDEA",
+  "CIS": "BR07401391000024696",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BR",
+  "Comune": "SAN DONACI",
+  "CAP": "72025",
+  "Via": "VIA ADUA",
+  "Civico": "23"
+},
+{
+  "Denominazione": "Casa la rosa",
+  "CIS": "BR07401391000038705",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BR",
+  "Comune": "SAN DONACI",
+  "CAP": "72025",
+  "Localita'": "San dknaci",
+  "Via": "Regina Elena ",
+  "Civico": "16"
+},
+{
+  "Denominazione": "DeBa House ",
+  "CIS": "BR07401391000041040",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BR",
+  "Comune": "SAN DONACI",
+  "CAP": "72025",
+  "Localita'": "Salento",
+  "Via": "Via Trieste  ",
+  "Civico": "140"
+},
+{
+  "Denominazione": "La casa dei nonni",
+  "CIS": "BR07401391000021910",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BR",
+  "Comune": "SAN DONACI",
+  "CAP": "72025",
+  "Localita'": "San Donaci",
+  "Via": "Via S. Luigi",
+  "Civico": "19"
+},
+{
+  "Denominazione": "VILLA PIZZI",
+  "CIS": "BR07401391000014705",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BR",
+  "Comune": "SAN DONACI",
+  "CAP": "72025",
+  "Localita'": "SAN DONACI",
+  "Via": "CONTRADA PIZZI sn",
+  "Civico": "sn"
+},
+{
+  "Denominazione": "VILLA RE",
+  "CIS": "BR07401391000038751",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BR",
+  "Comune": "SAN DONACI",
+  "CAP": "72025",
+  "Via": "VIA GIULIO CESARE",
+  "Civico": "62"
+}
+]

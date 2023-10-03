@@ -1,0 +1,38 @@
+[
+{
+  "Denominazione": "Dimora Letizia",
+  "CIS": "FG07106391000032751",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "ORDONA",
+  "CAP": "71040",
+  "Localita'": "Ordona",
+  "Via": "Via Giovine",
+  "Civico": "35"
+},
+{
+  "Denominazione": "La casa di nonna Lina",
+  "CIS": "FG07106391000021741",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "ORDONA",
+  "CAP": "71040",
+  "Localita'": "Ordona",
+  "Via": "Via Irpinia",
+  "Civico": "3"
+},
+{
+  "Denominazione": "Masseria Frezza",
+  "CIS": "FG07106391000021695",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "ORDONA",
+  "CAP": "71040",
+  "Localita'": "Valle Scodella",
+  "Via": "SP 85",
+  "Civico": "SNC"
+}
+]

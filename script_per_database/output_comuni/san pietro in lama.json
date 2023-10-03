@@ -1,0 +1,48 @@
+[
+{
+  "Denominazione": "Casa del Nonno Toto",
+  "CIS": "LE07507191000041472",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "SAN PIETRO IN LAMA",
+  "CAP": "73010",
+  "Via": "Via Principe di Piemonte",
+  "Civico": "40"
+},
+{
+  "Denominazione": "Casetta Azalusi",
+  "CIS": "LE07507191000013486",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "SAN PIETRO IN LAMA",
+  "CAP": "73010",
+  "Via": "Via Roma",
+  "Civico": "15"
+},
+{
+  "Denominazione": " Corte dei Figuli",
+  "CIS": "LE07507191000011802",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "SAN PIETRO IN LAMA",
+  "CAP": "73010",
+  "Localita'": "San Pietro In Lama",
+  "Via": "via Roma 32, Corte",
+  "Civico": "32"
+},
+{
+  "Denominazione": "MAISON BOUTIQUE AT",
+  "CIS": "LE07507191000030249",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "SAN PIETRO IN LAMA",
+  "CAP": "73010",
+  "Localita'": "SAN PIETRO IN LAMA",
+  "Via": "VIA REG. MARG. DI SAVOIA ",
+  "Civico": "57"
+}
+]

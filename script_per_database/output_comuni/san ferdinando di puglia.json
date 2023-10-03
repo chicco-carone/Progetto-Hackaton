@@ -1,0 +1,37 @@
+[
+{
+  "Denominazione": "Grace",
+  "CIS": "BT11000791000033644",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BT",
+  "Comune": "SAN FERDINANDO DI PUGLIA",
+  "CAP": "76017",
+  "Localita'": "San Ferdinando di Puglia ",
+  "Via": "Via delle margherite ",
+  "Civico": "22"
+},
+{
+  "Denominazione": "RESIDENCE SAN FERDINANDO",
+  "CIS": "BT11000791000033873",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BT",
+  "Comune": "SAN FERDINANDO DI PUGLIA",
+  "CAP": "76017",
+  "Localita'": "SAN FERDINANDO",
+  "Via": "VIA DANTE ALIGHIERI",
+  "Civico": "77"
+},
+{
+  "Denominazione": "la casa di nonna Francesca",
+  "CIS": "BT11000791000012688",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BT",
+  "Comune": "SAN FERDINANDO DI PUGLIA",
+  "CAP": "76017",
+  "Via": "Via Villa Glori",
+  "Civico": "17"
+}
+]

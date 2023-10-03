@@ -1,0 +1,50 @@
+[
+{
+  "Denominazione": "Attico ",
+  "CIS": "FG07104991000011752",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN NICANDRO GARGANICO",
+  "CAP": "71015",
+  "Localita'": "San Nicandro Garganico",
+  "Via": "via Adriatico ",
+  "Civico": "78"
+},
+{
+  "Denominazione": "B&B SANTE'",
+  "CIS": "FG07104991000039066",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN NICANDRO GARGANICO",
+  "CAP": "71015",
+  "Localita'": "SAN NICANDRO GARGANICO",
+  "Via": "VIA CARUGNO",
+  "Civico": "49"
+},
+{
+  "Denominazione": "BOSCHETTO B&B",
+  "CIS": "FG07104991000033072",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN NICANDRO GARGANICO",
+  "CAP": "71015",
+  "Localita'": "San Nicandro Garganico",
+  "Via": "TERZA VIA BOSCHETTO",
+  "Civico": "68"
+},
+{
+  "Denominazione": "CASINA COSTANZA",
+  "CIS": "FG07104991000013874",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN NICANDRO GARGANICO",
+  "CAP": "71015",
+  "Localita'": "SAN NICANDRO GARGANICO",
+  "Via": "LARGO TERRA VECCHIA ",
+  "Civico": "1"
+}
+]

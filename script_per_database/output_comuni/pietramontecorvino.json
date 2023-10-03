@@ -1,0 +1,38 @@
+[
+{
+  "Denominazione": "Apartment House \"Vista Normanna\"",
+  "CIS": "FG07103991000024411",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "PIETRAMONTECORVINO",
+  "CAP": "71038",
+  "Localita'": "Pietramontecorvino",
+  "Via": "Via Fares ",
+  "Civico": "21"
+},
+{
+  "Denominazione": "B&B Sotto Le Mura",
+  "CIS": "FG07103991000023483",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "PIETRAMONTECORVINO",
+  "CAP": "71038",
+  "Localita'": "pietramontecorvino",
+  "Via": "vico castello",
+  "Civico": "9"
+},
+{
+  "Denominazione": "La Tavernetta",
+  "CIS": "FG07103991000022095",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "PIETRAMONTECORVINO",
+  "CAP": "71038",
+  "Localita'": "Pietramontecorvino",
+  "Via": "via Vinenzo Peloso",
+  "Civico": "3"
+}
+]

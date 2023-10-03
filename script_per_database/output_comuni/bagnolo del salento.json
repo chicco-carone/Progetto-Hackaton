@@ -1,0 +1,109 @@
+[
+{
+  "Denominazione": "APPARTAMENTO USO TURISTICO ",
+  "CIS": "LE07500891000008540",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "BAGNOLO DEL SALENTO",
+  "CAP": "73020",
+  "Localita'": "BAGNOLO DEL SALENTO",
+  "Via": "VIA VERDI",
+  "Civico": "10"
+},
+{
+  "Denominazione": "Appartamento Vittoria",
+  "CIS": "LE07500891000023446",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "BAGNOLO DEL SALENTO",
+  "CAP": "73020",
+  "Localita'": "Bagnolo del Salento",
+  "Via": "Via Sacerdote Donato schattino",
+  "Civico": "7"
+},
+{
+  "Denominazione": "Attico 44",
+  "CIS": "LE07500891000018440",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "BAGNOLO DEL SALENTO",
+  "CAP": "73020",
+  "Via": "via Kennedy",
+  "Civico": "44"
+},
+{
+  "Denominazione": "Casa vacanze Antonietta",
+  "CIS": "LE07500891000028806",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "BAGNOLO DEL SALENTO",
+  "CAP": "73020",
+  "Localita'": "Bagnolo del Salento",
+  "Via": "Via giuseppe garibaldi ",
+  "Civico": "7"
+},
+{
+  "Denominazione": "La tavernetta di Carlo",
+  "CIS": "LE07500891000028610",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "BAGNOLO DEL SALENTO",
+  "CAP": "73020",
+  "Localita'": "Bagnolo del Salento",
+  "Via": "viale Giovanni Paolo II",
+  "Civico": "snc"
+},
+{
+  "Denominazione": "TRIADE SALENTO",
+  "CIS": "LE07500891000008369",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "BAGNOLO DEL SALENTO",
+  "CAP": "73020",
+  "Localita'": "BAGNOLO DEL SALENTO",
+  "Via": "VIA GIULIO ACQUAVIVA",
+  "Civico": "21"
+},
+{
+  "Denominazione": "Tenuta Pigliano Dependance",
+  "CIS": "LE07500891000040060",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "BAGNOLO DEL SALENTO",
+  "CAP": "73020",
+  "Localita'": "Bagnolo del Salento",
+  "Via": "via Mancini ",
+  "Civico": "3"
+},
+{
+  "Denominazione": "la depandance di vittoria",
+  "CIS": "LE07500891000041079",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "BAGNOLO DEL SALENTO",
+  "CAP": "73020",
+  "Localita'": "Bagnolo del Salento",
+  "Via": "viale Giovanni Paolo II",
+  "Civico": "snc"
+},
+{
+  "Denominazione": "palazzo Bernardini de Pace",
+  "CIS": "LE07500891000034860",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "BAGNOLO DEL SALENTO",
+  "CAP": "73020",
+  "Localita'": "Bagnolo del Salento",
+  "Via": "piazza san giorgio",
+  "Civico": "7"
+}
+]

@@ -1,0 +1,119 @@
+[
+{
+  "Denominazione": "APPARTAMENTO TRAPEZIO",
+  "CIS": "FG07105191000035622",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN SEVERO",
+  "CAP": "71016",
+  "Localita'": "SAN SEVERO",
+  "Via": "VIA COLANGELO",
+  "Civico": "144"
+},
+{
+  "Denominazione": "B&B SOVANI",
+  "CIS": "FG07105191000035654",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN SEVERO",
+  "CAP": "71016",
+  "Via": "piazza aldo moro",
+  "Civico": "39"
+},
+{
+  "Denominazione": "DIMORA CADAME'",
+  "CIS": "FG07105191000023457",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN SEVERO",
+  "CAP": "71016",
+  "Localita'": "SAN SEVERO",
+  "Via": "VIA MATTEO FRACCACRETA",
+  "Civico": "69"
+},
+{
+  "Denominazione": "Enopolio Daunio",
+  "CIS": "FG07105191000021704",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN SEVERO",
+  "CAP": "71016",
+  "Localita'": "San Severo",
+  "Via": "via Soccorso",
+  "Civico": "86"
+},
+{
+  "Denominazione": "La Casa di Anna",
+  "CIS": "FG07105191000033090",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN SEVERO",
+  "CAP": "71016",
+  "Localita'": "San Severo",
+  "Via": "Via E. De Deo",
+  "Civico": "24/A"
+},
+{
+  "Denominazione": "SWEET HOME TEMPO LIBERO",
+  "CIS": "FG07105191000033205",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN SEVERO",
+  "CAP": "71016",
+  "Localita'": "san severo",
+  "Via": "Via Gianbattista Oliva",
+  "Civico": "134"
+},
+{
+  "Denominazione": "Siria b&b ",
+  "CIS": "FG07105191000039890",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN SEVERO",
+  "CAP": "71016",
+  "Localita'": "San severo ",
+  "Via": "Ss89 km3,450",
+  "Civico": "3,450"
+},
+{
+  "Denominazione": "Un'oasi di pace in centro",
+  "CIS": "FG07105191000017109",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN SEVERO",
+  "CAP": "71016",
+  "Via": "viale due giugno ",
+  "Civico": "218"
+},
+{
+  "Denominazione": "casa vacanze \"Ai campanili\"",
+  "CIS": "FG07105191000033876",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN SEVERO",
+  "CAP": "71016",
+  "Via": "largo Ragazzi del '99",
+  "Civico": "34"
+},
+{
+  "Denominazione": "la casina",
+  "CIS": "FG07105191000011372",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN SEVERO",
+  "CAP": "71016",
+  "Localita'": "san severo",
+  "Via": "via arco ",
+  "Civico": "20"
+}
+]

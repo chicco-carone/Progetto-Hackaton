@@ -1,0 +1,50 @@
+[
+{
+  "Denominazione": "Camera Matrimoniale",
+  "CIS": "FG07105491000014257",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "STORNARA",
+  "CAP": "71047",
+  "Localita'": "STORNARA",
+  "Via": "Via Ges\u00f9 Vecchio ",
+  "Civico": "28"
+},
+{
+  "Denominazione": "Camera Singola",
+  "CIS": "FG07105491000014256",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "STORNARA",
+  "CAP": "71047",
+  "Localita'": "Stornara",
+  "Via": "Via Ges\u00f9 Vecchio ",
+  "Civico": "26"
+},
+{
+  "Denominazione": "Piazza Matteotti",
+  "CIS": "FG07105491000011353",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "STORNARA",
+  "CAP": "71047",
+  "Localita'": "Stornara",
+  "Via": "via Giuseppe Garibaldi",
+  "Civico": "51"
+},
+{
+  "Denominazione": "masseria posticciola",
+  "CIS": "FG07105491000021758",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "STORNARA",
+  "CAP": "71047",
+  "Localita'": "STORNARA",
+  "Via": "localit\u00e0 posticciola",
+  "Civico": "s.n.c."
+}
+]

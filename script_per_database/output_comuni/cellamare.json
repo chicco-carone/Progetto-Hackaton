@@ -1,0 +1,36 @@
+[
+{
+  "Denominazione": "Dimora Amravathi",
+  "CIS": "BA07201891000023594",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BA",
+  "Comune": "CELLAMARE",
+  "CAP": "70010",
+  "Localita'": "Cellamare",
+  "Via": "V Nicol\u00f2 Giudice",
+  "Civico": "1"
+},
+{
+  "Denominazione": "LE DAMIGIANE",
+  "CIS": "BA07201891000034869",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BA",
+  "Comune": "CELLAMARE",
+  "CAP": "70010",
+  "Via": "VIA ROSARIO LIVATINO",
+  "Civico": "16"
+},
+{
+  "Denominazione": "suite punta bianca ",
+  "CIS": "BA07201891000026940",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BA",
+  "Comune": "CELLAMARE",
+  "CAP": "70010",
+  "Via": "via eleonora costanza giudice",
+  "Civico": "11"
+}
+]

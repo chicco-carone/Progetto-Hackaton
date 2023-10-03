@@ -1,0 +1,38 @@
+[
+{
+  "Denominazione": "Casa Privata",
+  "CIS": "BT11000891000041709",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BT",
+  "Comune": "SPINAZZOLA",
+  "CAP": "74016",
+  "Localita'": "Spinazzola",
+  "Via": "C.so Vittorio Emanuele",
+  "Civico": "216"
+},
+{
+  "Denominazione": "INTERNO 13 Apartament",
+  "CIS": "BT11000891000022257",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BT",
+  "Comune": "SPINAZZOLA",
+  "CAP": "76014",
+  "Localita'": "SPINAZZOLA",
+  "Via": "VIA LA TORRE",
+  "Civico": "13"
+},
+{
+  "Denominazione": "casa vacanze la piazzetta",
+  "CIS": "BT11000891000011706",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BT",
+  "Comune": "SPINAZZOLA",
+  "CAP": "76014",
+  "Localita'": "spinazzola",
+  "Via": "via giovanni bovio",
+  "Civico": "99"
+}
+]

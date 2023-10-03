@@ -1,0 +1,109 @@
+[
+{
+  "Denominazione": "AnticoCorso74",
+  "CIS": "BA07203991000022299",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BA",
+  "Comune": "SAMMICHELE DI BARI",
+  "CAP": "70010",
+  "Localita'": "Sammichele di Bari",
+  "Via": "corso vittorio emanuele",
+  "Civico": "74"
+},
+{
+  "Denominazione": "Casa De Amicis ",
+  "CIS": "BA07203991000038710",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BA",
+  "Comune": "SAMMICHELE DI BARI",
+  "CAP": "70010",
+  "Localita'": "Sammichele di Bari ",
+  "Via": "Via Edmondo De Amicis ",
+  "Civico": "24"
+},
+{
+  "Denominazione": "Casa De Amicis 24",
+  "CIS": "BA07203991000000387",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BA",
+  "Comune": "SAMMICHELE DI BARI",
+  "CAP": "70010",
+  "Localita'": "Sammichele di Bari",
+  "Via": "Via Edmondo De Amicis ",
+  "Civico": "24"
+},
+{
+  "Denominazione": "HAPPY HOUSE",
+  "CIS": "BA07203991000030422",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BA",
+  "Comune": "SAMMICHELE DI BARI",
+  "CAP": "70010",
+  "Localita'": "SAMMICHELE DI BARI",
+  "Via": "VIA FIRENZE",
+  "Civico": "12"
+},
+{
+  "Denominazione": " IL GIARDINO DI ROSA B&B",
+  "CIS": "BA07203991000036433",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BA",
+  "Comune": "SAMMICHELE DI BARI",
+  "CAP": "70010",
+  "Localita'": "SAMMICHELE DI BARI",
+  "Via": "VIA B.CELLINI",
+  "Civico": "5"
+},
+{
+  "Denominazione": "Il rifugio di VAAZ",
+  "CIS": "BA07203991000013780",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BA",
+  "Comune": "SAMMICHELE DI BARI",
+  "CAP": "70010",
+  "Localita'": "Sammichele di Bari",
+  "Via": "via Capitano Dalfino",
+  "Civico": "34"
+},
+{
+  "Denominazione": "Olivo di Puglia",
+  "CIS": "BA07203991000013652",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BA",
+  "Comune": "SAMMICHELE DI BARI",
+  "CAP": "70010",
+  "Via": "Via Leonardo Daddabbo",
+  "Civico": "1"
+},
+{
+  "Denominazione": "Sotto l'arco",
+  "CIS": "BA07203991000000985",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BA",
+  "Comune": "SAMMICHELE DI BARI",
+  "CAP": "70010",
+  "Localita'": "Sammichele di Bari",
+  "Via": "Via conte Vaaz",
+  "Civico": "1"
+},
+{
+  "Denominazione": "Sotto l'arco due",
+  "CIS": "BA07203991000000986",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BA",
+  "Comune": "SAMMICHELE DI BARI",
+  "CAP": "70010",
+  "Localita'": "Sammichele di Bari",
+  "Via": "via Cristoforo Colombo",
+  "Civico": "4"
+}
+]

@@ -1,0 +1,74 @@
+[
+{
+  "Denominazione": "CASETTA 52",
+  "CIS": "TA07302091000038009",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "TA",
+  "Comune": "PALAGIANELLO",
+  "CAP": "74018",
+  "Localita'": "PALAGIANELLO",
+  "Via": "VIA SETTEMBRINI ",
+  "Civico": "52"
+},
+{
+  "Denominazione": "Carpignano Country House ",
+  "CIS": "TA07302091000028913",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "TA",
+  "Comune": "PALAGIANELLO",
+  "CAP": "74018",
+  "Localita'": "palagianello",
+  "Via": " via C. Colombo ",
+  "Civico": "18"
+},
+{
+  "Denominazione": "Casa vacanze",
+  "CIS": "TA07302091000041326",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "TA",
+  "Comune": "PALAGIANELLO",
+  "CAP": "74018",
+  "Localita'": "palagianello",
+  "Via": "Via puglia ",
+  "Civico": "N 1"
+},
+{
+  "Denominazione": "Civico 65",
+  "CIS": "TA07302091000023037",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "TA",
+  "Comune": "PALAGIANELLO",
+  "CAP": "74018",
+  "Localita'": "Palagianello",
+  "Via": "Via Settembrini",
+  "Civico": "65"
+},
+{
+  "Denominazione": "La R\u00e8gia",
+  "CIS": "TA07302091000023073",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "TA",
+  "Comune": "PALAGIANELLO",
+  "CAP": "74018",
+  "Localita'": "Palagianello",
+  "Via": "Via Settembrini",
+  "Civico": "72"
+},
+{
+  "Denominazione": "La loggetta 63",
+  "CIS": "TA07302091000023036",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "TA",
+  "Comune": "PALAGIANELLO",
+  "CAP": "74018",
+  "Localita'": "Palagianello",
+  "Via": "Via burrone",
+  "Civico": "63"
+}
+]

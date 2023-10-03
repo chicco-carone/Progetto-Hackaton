@@ -1,0 +1,143 @@
+[
+{
+  "Denominazione": "CASA SARACENO",
+  "CIS": "FG07104691000041614",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN GIOVANNI ROTONDO",
+  "CAP": "71013",
+  "Localita'": "SAN GIOVANNI ROTONDO",
+  "Via": "VIA PAOLO CASCAVILLA",
+  "Civico": "43"
+},
+{
+  "Denominazione": "Casa Luciana Apartment",
+  "CIS": "FG07104691000041778",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN GIOVANNI ROTONDO",
+  "CAP": "71013",
+  "Localita'": "san giovanni rotondo",
+  "Via": "Via San Gennaro ",
+  "Civico": "1"
+},
+{
+  "Denominazione": "Dimora Donna Vittoria",
+  "CIS": "FG07104691000025845",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN GIOVANNI ROTONDO",
+  "CAP": "71013",
+  "Via": "Via Celestino Galiani",
+  "Civico": "10"
+},
+{
+  "Denominazione": "Ginevra Home",
+  "CIS": "FG07104691000025844",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN GIOVANNI ROTONDO",
+  "CAP": "71013",
+  "Via": "Via Ligabue",
+  "Civico": "30"
+},
+{
+  "Denominazione": "HOME SWEET HOME",
+  "CIS": "FG07104691000014152",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN GIOVANNI ROTONDO",
+  "CAP": "71013",
+  "Localita'": "SAN GIOVANNI ROTONDO",
+  "Via": "CORSO UMBERTO I ",
+  "Civico": "11"
+},
+{
+  "Denominazione": "The Studio",
+  "CIS": "FG07104691000037117",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN GIOVANNI ROTONDO",
+  "CAP": "71013",
+  "Via": "Via Caravaggio ",
+  "Civico": "6"
+},
+{
+  "Denominazione": "Villa",
+  "CIS": "FG07104691000033244",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN GIOVANNI ROTONDO",
+  "CAP": "71013",
+  "Localita'": "matine",
+  "Via": "Contrada Miscillo",
+  "Civico": "SNC"
+},
+{
+  "Denominazione": "Villa Andal\u00f9",
+  "CIS": "FG07104691000030011",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN GIOVANNI ROTONDO",
+  "CAP": "71013",
+  "Localita'": "San Giovanni Rotondo",
+  "Via": "Via S. Agata",
+  "Civico": "7-9-11"
+},
+{
+  "Denominazione": "Villetta gest",
+  "CIS": "FG07104691000035797",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN GIOVANNI ROTONDO",
+  "CAP": "71013",
+  "Localita'": "San Giovanni rotondo",
+  "Via": "C. Da passaturo",
+  "Civico": "Snc"
+},
+{
+  "Denominazione": "Vivi il Borgo",
+  "CIS": "FG07104691000011520",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN GIOVANNI ROTONDO",
+  "CAP": "71013",
+  "Localita'": "Gargano",
+  "Via": "Via Ferrantelli",
+  "Civico": "12"
+},
+{
+  "Denominazione": "casa nel quartiere storico di san giovanni rotondo",
+  "CIS": "FG07104691000018398",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN GIOVANNI ROTONDO",
+  "CAP": "71013",
+  "Localita'": "san giovanni rotondo",
+  "Via": "via paolo cascavilla",
+  "Civico": "58"
+},
+{
+  "Denominazione": "stellacometa",
+  "CIS": "FG07104691000011791",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "FG",
+  "Comune": "SAN GIOVANNI ROTONDO",
+  "CAP": "71013",
+  "Localita'": "san giovanni rotondo",
+  "Via": "via santa barbara",
+  "Civico": "2"
+}
+]

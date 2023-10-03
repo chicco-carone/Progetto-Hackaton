@@ -1,0 +1,25 @@
+[
+{
+  "Denominazione": "CASA GIUSY",
+  "CIS": "TA07302591000038805",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "TA",
+  "Comune": "SAN MARZANO DI SAN GIUSEPPE",
+  "CAP": "74020",
+  "Localita'": "SAN MARZANO DI SAN GIUSEPPE",
+  "Via": "VIA POTENZA",
+  "Civico": "7A"
+},
+{
+  "Denominazione": "CASA PRINCIPE",
+  "CIS": "TA07302591000018144",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "TA",
+  "Comune": "SAN MARZANO DI SAN GIUSEPPE",
+  "CAP": "74020",
+  "Via": "VIA DE PADOVA",
+  "Civico": "5A"
+}
+]

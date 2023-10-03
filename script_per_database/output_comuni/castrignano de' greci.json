@@ -1,0 +1,97 @@
+[
+{
+  "Denominazione": "500 Home",
+  "CIS": "LE07501891000038231",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "CASTRIGNANO DE' GRECI",
+  "CAP": "73020",
+  "Localita'": "Castrignano dei Greci",
+  "Via": "via Pozzi",
+  "Civico": "6"
+},
+{
+  "Denominazione": "Blackbeard house",
+  "CIS": "LE07501891000038123",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "CASTRIGNANO DE' GRECI",
+  "CAP": "73020",
+  "Localita'": "Castrignano dei Greci",
+  "Via": "Piazza Falcone e Borsellino",
+  "Civico": "40"
+},
+{
+  "Denominazione": "Casa RAM",
+  "CIS": "LE07501891000033663",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "CASTRIGNANO DE' GRECI",
+  "CAP": "73020",
+  "Localita'": "Castrignano de' Greci",
+  "Via": "Via Monosi",
+  "Civico": "6"
+},
+{
+  "Denominazione": "Casa a corte Casal Far\u00ec",
+  "CIS": "LE07501891000017835",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "CASTRIGNANO DE' GRECI",
+  "CAP": "73020",
+  "Localita'": "Castrignano Dei Greci",
+  "Via": "Via IV Novembre ",
+  "Civico": "27"
+},
+{
+  "Denominazione": "I rosoni",
+  "CIS": "LE07501891000018844",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "CASTRIGNANO DE' GRECI",
+  "CAP": "73030",
+  "Localita'": "Castrignano de greci ",
+  "Via": "Contrada serre",
+  "Civico": "Sn"
+},
+{
+  "Denominazione": "Maliconca",
+  "CIS": "LE07501891000041868",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "CASTRIGNANO DE' GRECI",
+  "CAP": "73020",
+  "Localita'": "Castrignano de' Greci",
+  "Via": "Strada vicinale Mollizze",
+  "Civico": "0"
+},
+{
+  "Denominazione": "Tenuta Chimeta",
+  "CIS": "LE07501891000028674",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "CASTRIGNANO DE' GRECI",
+  "CAP": "73020",
+  "Localita'": "Castrignano de greci",
+  "Via": "strada provinciale per Corigliano d'Otranto",
+  "Civico": "snc"
+},
+{
+  "Denominazione": "VILLETTA ANTONIO",
+  "CIS": "LE07501891000039827",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "LE",
+  "Comune": "CASTRIGNANO DE' GRECI",
+  "CAP": "73040",
+  "Via": "SP 214 STRADA PROVINCIALE",
+  "Civico": "SNC"
+}
+]

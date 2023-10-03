@@ -1,0 +1,47 @@
+[
+{
+  "Denominazione": "Casa \"PORTELLA\"",
+  "CIS": "BT11000691000037631",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BT",
+  "Comune": "MINERVINO MURGE",
+  "CAP": "76013",
+  "Via": "VIA PORTELLA",
+  "Civico": "12"
+},
+{
+  "Denominazione": "LA DIMORA DI MINERVA",
+  "CIS": "BT11000691000012002",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BT",
+  "Comune": "MINERVINO MURGE",
+  "CAP": "76013",
+  "Via": "VIA CAVOUR",
+  "Civico": "182"
+},
+{
+  "Denominazione": "LA SANNAL casa vacanze",
+  "CIS": "BT11000691000035798",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BT",
+  "Comune": "MINERVINO MURGE",
+  "CAP": "76013",
+  "Via": "via Mazzini",
+  "Civico": "132"
+},
+{
+  "Denominazione": "casetta franco",
+  "CIS": "BT11000691000014343",
+  "Tipologia": "Alloggi privati",
+  "Sottotipologia": "Locazione turistica",
+  "Provincia": "BT",
+  "Comune": "MINERVINO MURGE",
+  "CAP": "76013",
+  "Localita'": "minervino murge",
+  "Via": "via Croce",
+  "Civico": "199"
+}
+]
