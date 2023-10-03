@@ -18,7 +18,7 @@ $(document).ready(function() {
         error: function() {
             alert('Si è verificato un errore durante il recupero dei dati.');
         }
-    });
+    }); 
 
     $.ajax({
         url: 'nomi_provincie.txt',
