@@ -269,6 +269,9 @@ input[type=text], select {
   margin-bottom: -2px;
 }
 
-.videoyoutube{
-  margin: 0 auto; 
+.videoyoutube {
+  display: block;
+  margin: auto;
+  width: 80%; /* Puoi regolare questa percentuale in base alle tue preferenze */
+  max-width: 560px; /* Imposta la larghezza massima se desideri mantenere le dimensioni originali fino a una certa larghezza dello schermo */
 }
