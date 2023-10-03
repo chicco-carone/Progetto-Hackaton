@@ -1,1 +1,236 @@
+accadia
+acquaviva delle fonti
+adelfia
+alberobello
+alessano
+alezio
+alliste
+altamura
+andrano
+andria
+apricena
+aradeo
+arnesano
+ascoli satriano
+avetrana
+bagnolo del salento
 bari
+barileverano
+barletta
+biccari
+binetto
+bisceglie
+bitetto
+bitonto
+bitritto
+botrugno
+bovino
+brindisi
+cagnano varano
+calimera
+campi salentina
+cannole
+canosa di puglia
+caprarica di lecce
+capurso
+carmiano
+carosino
+carovigno
+carpignano salentino
+casalnuovo monterotaro
+casamassima
+casarano
+cassano delle murge
+castellana grotte
+castellaneta
+castelluccio dei sauri
+castelluccio valmaggiore
+castri di lecce
+castrignano de' greci
+castrignano del capo
+castro
+cavallino
+ceglie messapica
+cellamare
+cellino san marco
+cerignola
+chieuti
+cisternino
+collepasso
+conversano
+copertino
+corato
+corigliano d'otranto
+corsano
+crispiano
+cursi
+cutrofiano
+deliceto
+diso
+erchie
+fasano
+foggia
+fragagnano
+francavilla fontana
+gagliano del capo
+galatina
+galatone
+gallipoli
+ginosa
+gioia del colle
+giovinazzo
+giuggianello
+giurdignano
+gravina in puglia
+grottaglie
+grumo appula
+guagnano
+ischitella
+isole tremiti
+laterza
+latiano
+lecce
+leporano
+lequile
+lesina
+lizzanello
+lizzano
+locorotondo
+lucera
+maglie
+manduria
+manfredonia
+margherita di savoia
+martano
+martignano
+martina franca
+maruggio
+massafra
+matino
+mattinata
+melendugno
+melissano
+melpignano
+mesagne
+miggiano
+minervino di lecce
+minervino murge
+modugno
+mola di bari
+molfetta
+monopoli
+monte sant'angelo
+monteleone di puglia
+montemesola
+monteroni di lecce
+montesano salentino
+morciano di leuca
+mottola
+muro leccese
+nardo'
+neviano
+noci
+nociglia
+noicattaro
+novoli
+ordona
+oria
+orsara di puglia
+orta nova
+ortelle
+ostuni
+otranto
+palagianello
+palagiano
+palmariggi
+palo del colle
+parabita
+patu'
+peschici
+pietramontecorvino
+poggiardo
+poggiorsini
+polignano a mare
+porto cesareo
+presicce-acquarica
+pulsano
+putignano
+racale
+roccaforzata
+rocchetta sant'antonio
+rodi garganico
+roseto valfortore
+ruffano
+rutigliano
+ruvo di puglia
+salice salentino
+salve
+sammichele di bari
+san cassiano
+san cesario di lecce
+san donaci
+san donato di lecce
+san ferdinando di puglia
+san giorgio ionico
+san giovanni rotondo
+san marco in lamis
+san marco la catola
+san marzano di san giuseppe
+san michele salentino
+san nicandro garganico
+san pancrazio salentino
+san pietro in lama
+san pietro vernotico
+san severo
+san vito dei normanni
+sanarica
+sannicandro di bari
+sannicola
+sant'agata di puglia
+santa cesarea terme
+santeramo in colle
+sava
+scorrano
+secli'
+serracapriola
+sogliano cavour
+soleto
+specchia
+spinazzola
+spongano
+squinzano
+statte
+sternatia
+stornara
+supersano
+surano
+surbo
+taranto
+taurisano
+taviano
+terlizzi
+tiggiano
+torchiarolo
+toritto
+torre santa susanna
+torremaggiore
+torricella
+trani
+trepuzzi
+tricase
+triggiano
+trinitapoli
+troia
+tuglie
+turi
+ugento
+uggiano la chiesa
+valenzano
+veglie
+vernole
+vico del gargano
+vieste
+villa castelli
+volturino
+zapponeta
+zollino
